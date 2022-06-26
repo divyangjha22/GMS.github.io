@@ -1,0 +1,9 @@
+body {
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    background: url('Gym3.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 1000px;
+}
